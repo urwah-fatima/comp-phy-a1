@@ -1,3 +1,6 @@
+ASSIGNMENT 1: 
+OBJECTIVE: Write a program that uses Bisection method to find the root of a curve with two guesses so that the function of the root is zero. Use midpoint formula to determine the root
+
 The code implements the bisection method, which is a root-finding algorithm.
 
 Create a function that takes four parameters:
